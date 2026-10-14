@@ -1,0 +1,30 @@
+# Native builds and release packages
+/build/
+/dist/
+/tests/build/
+/tests/ui-*/
+*.obj
+*.exe
+*.xex
+*.xdb
+*.pdb
+*.ilk
+*.lib
+*.exp
+*.map
+# Compiled XUI themes; keep editable .xui sources
+*.xur
+# Local logs and sound/firmware samples
+*.log
+*.raw
+*.wav
+*.mp3
+*.bin
+# Local environment
+.vs/
+.vscode/
+__pycache__/
+*.pyc
+coda-language.txt
+Thumbs.db
+/research/SoftSonus.*

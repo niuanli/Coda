@@ -1,0 +1,486 @@
+{
+  "ui": {
+    "HomeTitle": {
+      "en": "Give your console\na little soul.",
+      "ru": "Добавь консоли\nнемного души."
+    },
+    "HomeBody": {
+      "en": "Familiar Xbox. Favorite sounds. Your character.",
+      "ru": "Знакомая Xbox. Любимые звуки. Твой характер."
+    },
+    "Safety": {
+      "en": "Every install includes a verified backup and a full read-back check.",
+      "ru": "Перед установкой — проверенная копия. После — проверка всех данных."
+    },
+    "Library": {
+      "en": "Sound library",
+      "ru": "Библиотека звуков"
+    },
+    "Backup": {
+      "en": "Create backup",
+      "ru": "Создать копию"
+    },
+    "Test": {
+      "en": "Test sounds",
+      "ru": "Проверить звуки"
+    },
+    "RestoreBackup": {
+      "en": "Restore backup",
+      "ru": "Восстановить копию"
+    },
+    "Exit": {
+      "en": "Exit",
+      "ru": "Выход"
+    },
+    "SavedTitle": {
+      "en": "Your saved sounds",
+      "ru": "Сохранённые звуки"
+    },
+    "LibraryTitle": {
+      "en": "Find your next sound",
+      "ru": "Выберите свой звук"
+    },
+    "RestoreHint": {
+      "en": "Choose a backup to restore. Current sounds will be backed up first.",
+      "ru": "Выберите копию. Текущие звуки будут сохранены перед восстановлением."
+    },
+    "ImageHint": {
+      "en": "BIN images: 45056 bytes, protection byte CF. Invalid files cannot be installed.",
+      "ru": "Образы BIN: 45056 байт, байт защиты CF. Неверные файлы недоступны для установки."
+    },
+    "Back": {
+      "en": "Back",
+      "ru": "Назад"
+    },
+    "NoBackups": {
+      "en": "No backups yet.\nCreate your first backup from the home screen.",
+      "ru": "Копий пока нет.\nСоздайте первую копию на главном экране."
+    },
+    "NoImages": {
+      "en": "Your library is empty.\nPlace sound images in the Sounds folder next to Coda.xex.",
+      "ru": "Библиотека пуста.\nПоместите образы в папку Sounds рядом с Coda.xex."
+    },
+    "Review": {
+      "en": "Review selected",
+      "ru": "Выбрать образ"
+    },
+    "InvalidHint": {
+      "en": "This image is invalid. Choose a complete 45056-byte image starting with CF.",
+      "ru": "Неверный образ. Выберите файл на 45056 байт, начинающийся с CF."
+    },
+    "RestoreTitle": {
+      "en": "Restore these sounds?",
+      "ru": "Восстановить эти звуки?"
+    },
+    "InstallTitle": {
+      "en": "Ready to install?",
+      "ru": "Готовы к установке?"
+    },
+    "InstallSteps": {
+      "en": "\n\n1  Save and verify your current sounds\n2  Install the selected image\n3  Read back and compare every byte\n\nKeep the console powered on until the operation finishes.",
+      "ru": "\n\n1  Сохранение и проверка текущих звуков\n2  Установка выбранного образа\n3  Чтение и сравнение каждого байта\n\nНе выключайте консоль до завершения."
+    },
+    "InstallHint": {
+      "en": "The current sound image will be preserved in Dumps. This affects the sound chip only.",
+      "ru": "Текущие звуки будут сохранены в Dumps. Изменяется только звуковой чип."
+    },
+    "Restore": {
+      "en": "Restore",
+      "ru": "Восстановить"
+    },
+    "Install": {
+      "en": "Install",
+      "ru": "Установить"
+    },
+    "Cancel": {
+      "en": "Cancel",
+      "ru": "Отмена"
+    },
+    "WorkingTitle": {
+      "en": "Taking care of your sounds",
+      "ru": "Работа со звуками"
+    },
+    "CancelBeforeErase": {
+      "en": "Cancel before erase",
+      "ru": "Отмена до стирания"
+    },
+    "TimerFailed": {
+      "en": "Cannot start the progress timer. No hardware operation was started.",
+      "ru": "Не удалось запустить таймер. Операция с чипом не начиналась."
+    },
+    "Done": {
+      "en": "Done",
+      "ru": "Готово"
+    },
+    "BackupReadHint": {
+      "en": "The original sounds are read twice before a backup is saved.",
+      "ru": "Перед сохранением копии исходные звуки считываются дважды."
+    },
+    "CompleteTitle": {
+      "en": "All done.",
+      "ru": "Всё готово."
+    },
+    "CancelledTitle": {
+      "en": "Operation cancelled",
+      "ru": "Операция отменена"
+    },
+    "FailedTitle": {
+      "en": "Let's resolve this",
+      "ru": "Нужна ваша помощь"
+    },
+    "PlaybackTitle": {
+      "en": "Hear it on your console",
+      "ru": "Послушайте на консоли"
+    },
+    "PlaybackBody": {
+      "en": "Play the sounds currently installed on the chip.\n\nPOWER\nThe sound your console makes when it turns on.\n\nEJECT\nThe sound your console makes when the tray opens.",
+      "ru": "Прослушайте звуки, установленные на чипе.\n\nВКЛЮЧЕНИЕ\nЗвук при включении консоли.\n\nЛОТОК\nЗвук при открытии лотка."
+    },
+    "PlaybackHint": {
+      "en": "Playback uses the console's speaker. Library files are not audio previews.",
+      "ru": "Звук воспроизводит динамик консоли. Прослушиваются установленные звуки."
+    },
+    "PlayPower": {
+      "en": "Play power",
+      "ru": "Звук включения"
+    },
+    "PlayEject": {
+      "en": "Play eject",
+      "ru": "Звук лотка"
+    },
+    "Subtitle": {
+      "en": "CONSOLE SOUND MANAGER",
+      "ru": "УПРАВЛЕНИЕ ЗВУКАМИ КОНСОЛИ"
+    },
+    "Actions": {
+      "en": "QUICK ACTIONS",
+      "ru": "ДЕЙСТВИЯ"
+    },
+    "SelectImage": {
+      "en": "SELECT AN IMAGE",
+      "ru": "ВЫБЕРИТЕ ОБРАЗ"
+    },
+    "InvalidLabel": {
+      "en": "[INVALID] ",
+      "ru": "[НЕВЕРНЫЙ] "
+    },
+    "BackupPrefix": {
+      "en": "Backup: ",
+      "ru": "Копия: "
+    },
+    "SaveLanguageFailed": {
+      "en": "Language changed for this session. Could not save the setting.",
+      "ru": "Язык изменён на этот сеанс. Не удалось сохранить настройку."
+    },
+    "SafetyTitle": {
+      "en": "Always backed up",
+      "ru": "Всегда с копией"
+    },
+    "StudioSafety": {
+      "en": "Before installation, save and verify the current sounds.\n\nAfter installation, compare every byte.\n\nKeep the console powered on until completion.",
+      "ru": "Перед установкой сохраним и проверим текущие звуки.\n\nПосле установки сравним каждый байт.\n\nНе выключайте консоль до завершения."
+    },
+    "Collection": {
+      "en": "In your library",
+      "ru": "В вашей библиотеке"
+    },
+    "EmptyCollection": {
+      "en": "Three steps to your sound",
+      "ru": "Три шага к своему звуку"
+    },
+    "CollectionHint": {
+      "en": "First three images from Sounds. Open the library to see every file.",
+      "ru": "Первые три образа из Sounds. Все файлы доступны в библиотеке."
+    },
+    "EmptyCollectionHint": {
+      "en": "Place BIN images in Sounds, then open the library.",
+      "ru": "Поместите образы BIN в Sounds, затем откройте библиотеку."
+    },
+    "StepSave": {
+      "en": "Save your sounds",
+      "ru": "Сохранить звуки"
+    },
+    "StepInstall": {
+      "en": "Install an image",
+      "ru": "Установить образ"
+    },
+    "StepTest": {
+      "en": "Hear the result",
+      "ru": "Послушать результат"
+    },
+    "StepSaveInfo": {
+      "en": "Verified backup",
+      "ru": "Проверенная копия"
+    },
+    "StepInstallInfo": {
+      "en": "Read-back verification",
+      "ru": "Проверка после записи"
+    },
+    "StepTestInfo": {
+      "en": "Console speaker",
+      "ru": "Динамик консоли"
+    },
+    "ImageValid": {
+      "en": "BIN / ready to install",
+      "ru": "BIN / готов к установке"
+    },
+    "ImageInvalid": {
+      "en": "BIN / invalid image",
+      "ru": "BIN / неверный образ"
+    },
+    "Workshop": {
+      "en": "Workshop",
+      "ru": "Мастерская"
+    },
+    "PickPower": {
+      "en": "1 / Choose the power sound",
+      "ru": "1 / Звук включения"
+    },
+    "PickEject": {
+      "en": "2 / Choose the eject sound",
+      "ru": "2 / Звук лотка"
+    },
+    "ImportHint": {
+      "en": "WAV PCM: mono, 8000 Hz, 16 bit. Source files are kept unchanged.",
+      "ru": "WAV PCM: моно, 8000 Гц, 16 бит. Исходники сохраняются без изменений."
+    },
+    "NoImports": {
+      "en": "No WAV files found.\nPlace two WAV files in Imports next to Coda.xex.\nThen reopen the workshop.",
+      "ru": "Файлов WAV пока нет.\nПоместите два WAV в Imports рядом с Coda.xex.\nЗатем откройте мастерскую снова."
+    },
+    "WorkshopReview": {
+      "en": "3 / Create your sound image",
+      "ru": "3 / Создание образа"
+    },
+    "BuildSteps": {
+      "en": "\n\nCoda will create a full ISD image and save it in Sounds.\n\nOpen the library afterwards to review and install it.\nThe chip is not changed during image creation.",
+      "ru": "\n\nCoda соберёт полный образ ISD и сохранит его в Sounds.\n\nЗатем откройте библиотеку для установки.\nПри создании образа чип не изменяется."
+    },
+    "BuildImage": {
+      "en": "Create BIN",
+      "ru": "Собрать BIN"
+    },
+    "OpenLibrary": {
+      "en": "Open library",
+      "ru": "Открыть библиотеку"
+    },
+    "OutputPrefix": {
+      "en": "Saved: ",
+      "ru": "Сохранено: "
+    },
+    "BuildingTitle": {
+      "en": "Creating your sound image",
+      "ru": "Сборка звукового образа"
+    },
+    "Refresh": {
+      "en": "Refresh",
+      "ru": "Обновить"
+    },
+    "RefreshResult": {
+      "en": "List refreshed. Files found: %u",
+      "ru": "Список обновлён. Найдено файлов: %u"
+    },
+    "RefreshScanning": {
+      "en": "Scanning %s. B: back.",
+      "ru": "Сканирование %s. B: назад."
+    },
+    "RefreshFailed": {
+      "en": "Could not start the scan. Press X to retry.",
+      "ru": "Не удалось запустить сканирование. Нажмите X для повтора."
+    },
+    "FolderMissing": {
+      "en": "Folder not found.\nCreate the folder shown below next to Coda.xex and add your BIN files.\nThen press X to refresh.",
+      "ru": "Папка не найдена.\nСоздайте указанную внизу папку рядом с Coda.xex и добавьте BIN-файлы.\nЗатем нажмите X."
+    },
+    "FolderError": {
+      "en": "Cannot read this folder.\nCheck the path and access to the drive.",
+      "ru": "Не удалось прочитать папку.\nПроверьте путь и доступ к накопителю."
+    },
+    "ScanPath": {
+      "en": "Path:",
+      "ru": "Путь:"
+    },
+    "ScanTimeout": {
+      "en": "Scan exceeded 5 seconds. You can go back or press X to retry.",
+      "ru": "Сканирование превысило 5 секунд. Можно вернуться назад или повторить X."
+    },
+    "FileError": {
+      "en": "File access error: ",
+      "ru": "Код ошибки доступа: "
+    },
+    "Preview": {
+      "en": "Listen to file",
+      "ru": "Послушать файл"
+    },
+    "StopPreview": {
+      "en": "Stop playback",
+      "ru": "Остановить"
+    },
+    "PreviewHint": {
+      "en": "Preview through TV / HDMI. BIN preview supports ISD PCM images.",
+      "ru": "Прослушивание через ТВ / HDMI. Для BIN поддерживаются образы ISD PCM."
+    },
+    "PreviewPlaying": {
+      "en": "Playing through TV / HDMI...",
+      "ru": "Воспроизведение через ТВ / HDMI..."
+    },
+    "PreviewFailed": {
+      "en": "Cannot preview: check file access, WAV format or BIN encoding.",
+      "ru": "Не удалось прослушать: проверьте доступ, формат WAV или кодировку BIN."
+    },
+    "PreviewDone": {
+      "en": "Playback finished.",
+      "ru": "Воспроизведение завершено."
+    },
+    "About": {
+      "ru": "О программе",
+      "en": "About Coda"
+    },
+    "AboutBody": {
+      "ru": "Независимый проект для управления звуками консоли. Не связан с Microsoft и не одобрен ею.\n\nИспользуйте собственные звуки или материалы с разрешением правообладателей. Изменение консоли выполняется на вашу ответственность.",
+      "en": "An independent project for managing console sounds. Not affiliated with or endorsed by Microsoft.\n\nUse your own sounds or material you have permission to use. Console modifications are your responsibility."
+    },
+    "AboutFooter": {
+      "ru": "© 2026 Aleksandr Nikitin aka Niuanli.\nСредства SDK и сторонние звуки в комплект не входят.",
+      "en": "© 2026 Aleksandr Nikitin aka Niuanli.\nSDK tools and third-party sounds are not included."
+    },
+    "Credits": {
+      "ru": "Лицензии",
+      "en": "Credits"
+    },
+    "CreditsTitle": {
+      "ru": "Благодарности и лицензии",
+      "en": "Credits and licenses"
+    },
+    "CreditsBody": {
+      "ru": "J-Runner with Extras — формат BIN и алгоритм сборки (MIT).\n\nSonusGUI / Byrom, ISDFlasher / kmx360 и Xbox360-ISD / buddyjojo — основа транспорта GPIO.\n\nLiberation Sans и Source Sans 3 — шрифты и графика кнопок (SIL Open Font License 1.1).",
+      "en": "J-Runner with Extras — BIN layout and image assembly (MIT).\n\nSonusGUI / Byrom, ISDFlasher / kmx360 and Xbox360-ISD / buddyjojo — GPIO transport foundations.\n\nLiberation Sans and Source Sans 3 — fonts and button artwork (SIL Open Font License 1.1)."
+    },
+    "CreditsFooter": {
+      "ru": "Полные сведения: THIRD_PARTY.md.\nТексты лицензий находятся в папке Media.",
+      "en": "Full credits: THIRD_PARTY.md.\nLicense texts are included in Media."
+    }
+  },
+  "messages": {
+    "Connecting": {
+      "en": "Connecting to the sound chip...",
+      "ru": "Подключение к звуковому чипу..."
+    },
+    "InvalidImage": {
+      "en": "Invalid image. Expected 45056 bytes and protection byte CF.",
+      "ru": "Некорректный образ. Требуется 45056 байт и байт защиты CF."
+    },
+    "Cancelled": {
+      "en": "Cancelled. The sound chip was not erased.",
+      "ru": "Операция отменена. Чип не стирался."
+    },
+    "Unavailable": {
+      "en": "Sound chip unavailable or timed out.",
+      "ru": "Звуковой чип недоступен или не ответил вовремя."
+    },
+    "Reading": {
+      "en": "Reading current sounds...",
+      "ru": "Чтение текущих звуков..."
+    },
+    "ReadFailed": {
+      "en": "Backup read timed out. Chip was not erased.",
+      "ru": "Ошибка чтения копии. Чип не стирался."
+    },
+    "Unstable": {
+      "en": "The two backup reads differ. Chip was not erased.",
+      "ru": "Результаты двух чтений отличаются. Чип не стирался."
+    },
+    "Saving": {
+      "en": "Saving and verifying the backup file...",
+      "ru": "Сохранение и проверка резервной копии..."
+    },
+    "Checking": {
+      "en": "Checking a second read of the chip...",
+      "ru": "Проверка повторного чтения чипа..."
+    },
+    "SaveFailed": {
+      "en": "Backup could not be saved and verified. Chip was not erased.",
+      "ru": "Не удалось сохранить и проверить копию. Чип не стирался."
+    },
+    "Erasing": {
+      "en": "Backup verified. Erasing the chip...",
+      "ru": "Копия проверена. Стирание звукового чипа..."
+    },
+    "BackupDone": {
+      "en": "Backup saved and verified.",
+      "ru": "Резервная копия сохранена и проверена."
+    },
+    "EraseFailed": {
+      "en": "Erase failed or timed out. Restore the saved backup.",
+      "ru": "Ошибка стирания. Восстановите сохранённую копию."
+    },
+    "Writing": {
+      "en": "Installing sounds...",
+      "ru": "Установка звуков..."
+    },
+    "WriteFailed": {
+      "en": "Write failed. Restore the saved backup.",
+      "ru": "Ошибка записи. Восстановите сохранённую копию."
+    },
+    "Verifying": {
+      "en": "Checking the installed image...",
+      "ru": "Проверка установленного образа..."
+    },
+    "VerifyFailed": {
+      "en": "Verification failed. Restore the saved backup.",
+      "ru": "Проверка не пройдена. Восстановите сохранённую копию."
+    },
+    "Installed": {
+      "en": "Sounds installed and verified. You can now test playback.",
+      "ru": "Звуки установлены и проверены. Можно проверить воспроизведение."
+    },
+    "Starting": {
+      "en": "Starting operation...",
+      "ru": "Запуск операции..."
+    },
+    "WorkerFailed": {
+      "en": "Cannot start worker. Chip was not erased.",
+      "ru": "Не удалось запустить операцию. Чип не стирался."
+    },
+    "PlayDone": {
+      "en": "Playback command sent to the installed sound chip.",
+      "ru": "Команда воспроизведения отправлена звуковому чипу."
+    },
+    "PlayFailed": {
+      "en": "Playback failed. Check that the console has a supported ISD chip.",
+      "ru": "Ошибка воспроизведения. Проверьте наличие поддерживаемого чипа ISD."
+    },
+    "BuildReading": {
+      "en": "Reading source WAV files...",
+      "ru": "Чтение исходных WAV..."
+    },
+    "BuildDone": {
+      "en": "BIN created and verified. Open the library to install it.",
+      "ru": "BIN создан и проверен. Для установки откройте библиотеку."
+    },
+    "BuildReadFailed": {
+      "en": "Cannot read the selected WAV. Check the path and file access (limit: 1 MiB).",
+      "ru": "Не удалось прочитать выбранный WAV. Проверьте путь и доступ к файлу (предел: 1 МиБ)."
+    },
+    "BuildInvalid": {
+      "en": "Malformed WAV file. Check the RIFF header and audio data.",
+      "ru": "Повреждённый WAV. Проверьте заголовок RIFF и аудиоданные."
+    },
+    "BuildUnsupported": {
+      "en": "Use WAV PCM mono, 8000 Hz, 16 bit. Resampling and MP3 are not supported yet.",
+      "ru": "Нужен WAV PCM: моно, 8000 Гц, 16 бит. Пересчёт частоты и MP3 пока недоступны."
+    },
+    "BuildEmpty": {
+      "en": "The selected WAV contains no audio samples.",
+      "ru": "Выбранный WAV не содержит аудиосэмплов."
+    },
+    "BuildTooLarge": {
+      "en": "Sounds do not fit in the chip. Shorten them; combined encoded audio must fit in 44800 bytes.",
+      "ru": "Звуки не помещаются в чип. Сократите их: предел закодированного аудио — 44800 байт."
+    },
+    "BuildSaveFailed": {
+      "en": "Cannot save and verify the new BIN. Check free space and write access.",
+      "ru": "Не удалось сохранить и проверить BIN. Проверьте свободное место и доступ для записи."
+    }
+  }
+}
